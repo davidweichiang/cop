@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:bla
 BEGIN:VEVENT
-UID:7a7301cd-199c-4b9f-b7f6-ba048ddd1faf
+UID:08b888cf-1511-4692-a455-92e45b4365fe
 DTSTAMP:20190624T000000Z
 DTSTART:20200104
 DTEND:20200104
@@ -11,7 +11,7 @@ SUMMARY:St. Zdislava [Berka] of Lemberk
 DESCRIPTION:St. Zdislava [Berka] of Lemberk, lay Dominican and Mother (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:610bc591-2b3e-4281-b61f-a91efa90bb28
+UID:502767d1-a918-4031-b12e-8a4c64d76d10
 DTSTAMP:20190624T000000Z
 DTSTART:20200107
 DTEND:20200107
@@ -20,7 +20,7 @@ SUMMARY:St. Raymond of Peñafort
 DESCRIPTION:St. Raymond of Peñafort, friar, priest and Master of the Order (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:e05b3574-cca8-4952-ab2e-ee28055c895a
+UID:0259a545-2e70-48be-bd04-dd0fdfd58d74
 DTSTAMP:20190624T000000Z
 DTSTART:20200118
 DTEND:20200118
@@ -29,7 +29,7 @@ SUMMARY:St. Margaret of Hungary
 DESCRIPTION:St. Margaret of Hungary, virgin (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:8cca5044-5206-4999-bd49-90ad4a484862
+UID:71729f1a-e4d0-47c1-9bba-d48ab2f3c9b1
 DTSTAMP:20190624T000000Z
 DTSTART:20200128
 DTEND:20200128
@@ -38,7 +38,7 @@ SUMMARY:St. Thomas Aquinas
 DESCRIPTION:St. Thomas Aquinas, priest and Doctor of the Church (feast)
 END:VEVENT
 BEGIN:VEVENT
-UID:6288b20e-3026-4879-946e-b61bcd8db942
+UID:73f68e3d-e580-419d-8a85-cfc3a381ae1d
 DTSTAMP:20190624T000000Z
 DTSTART:20200204
 DTEND:20200204
@@ -47,7 +47,7 @@ SUMMARY:St. Catherine de' Ricci
 DESCRIPTION:St. Catherine de' Ricci, sister and virgin (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:34f956d0-b66d-452e-8198-472625bc0a61
+UID:e0ccb6ac-45ab-4dfc-b849-8290c7b72d36
 DTSTAMP:20190624T000000Z
 DTSTART:20200207
 DTEND:20200207
@@ -56,7 +56,7 @@ SUMMARY:Anniversary of Deceased Fathers and Mothers
 DESCRIPTION:Anniversary of Deceased Fathers and Mothers (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:27816420-f610-462a-83f8-0e471b8b7f4d
+UID:fc1a8e7c-2f06-47da-bb67-c5a0c7710ce8
 DTSTAMP:20190624T000000Z
 DTSTART:20200213
 DTEND:20200213
@@ -65,7 +65,7 @@ SUMMARY:Bl. Jordan of Saxony
 DESCRIPTION:Bl. Jordan of Saxony, friar, priest and Master of the Order (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:485e26e6-17f8-4c79-ad33-a9e282ec133b
+UID:80ac8942-0923-4e2e-a4c0-168d056d3d1f
 DTSTAMP:20190624T000000Z
 DTSTART:20200218
 DTEND:20200218
@@ -74,7 +74,7 @@ SUMMARY:Bl. John of Fiesole (Fra Angelico)
 DESCRIPTION:Bl. John of Fiesole (Fra Angelico), friar and priest (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:61782456-5e68-41cc-a81f-b990214e5de9
+UID:67f15e2f-a981-498e-a1b0-bb94c23da107
 DTSTAMP:20190624T000000Z
 DTSTART:20200420
 DTEND:20200420
@@ -83,7 +83,7 @@ SUMMARY:St. Agnes of Montepulciano
 DESCRIPTION:St. Agnes of Montepulciano, nun and virgin (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:6b66749e-f928-44e7-b42a-624191892ba7
+UID:7a44a532-d7de-4da9-aa92-8adfc313603b
 DTSTAMP:20190624T000000Z
 DTSTART:20200428
 DTEND:20200428
@@ -92,7 +92,7 @@ SUMMARY:Vigil of St. Catherine of Siena
 DESCRIPTION:Vigil of St. Catherine of Siena (fast and abstinence)
 END:VEVENT
 BEGIN:VEVENT
-UID:105d5ee3-2a7b-4d2c-a27f-549c5e48a6ad
+UID:8581f987-d601-4b65-8340-2a3986c0b57d
 DTSTAMP:20190624T000000Z
 DTSTART:20200429
 DTEND:20200429
@@ -101,7 +101,7 @@ SUMMARY:St. Catherine of Siena,lay Dominican
 DESCRIPTION:St. Catherine of Siena,lay Dominican,  virgin and Doctor of the Church" (feast)
 END:VEVENT
 BEGIN:VEVENT
-UID:bfa78bff-e359-4817-89ca-6ef36a6ca4d1
+UID:29dccc22-51d6-411c-81c1-8d33d15ebf75
 DTSTAMP:20190624T000000Z
 DTSTART:20200430
 DTEND:20200430
@@ -110,7 +110,7 @@ SUMMARY:St. Pius V
 DESCRIPTION:St. Pius V, friar and pope (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:f086671f-1b2f-4312-8bce-a20f8b2f1741
+UID:851f7e0a-b13a-4828-b501-cbe46493e158
 DTSTAMP:20190624T000000Z
 DTSTART:20200505
 DTEND:20200505
@@ -119,7 +119,7 @@ SUMMARY:St. Vincent Ferrer
 DESCRIPTION:St. Vincent Ferrer, friar and priest (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:cb8a5208-7bf3-4ced-897a-b51af08287a7
+UID:81ade298-3e50-4f9c-9052-4d017c12fab8
 DTSTAMP:20190624T000000Z
 DTSTART:20200510
 DTEND:20200510
@@ -128,7 +128,7 @@ SUMMARY:St. Antoninus Pierozzi of Florence
 DESCRIPTION:St. Antoninus Pierozzi of Florence, friar and bishop (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:2e48ff6d-9394-489b-b5e3-6d92cd5fb48b
+UID:23f960f0-d7e8-4c22-b70c-168f917bbcf6
 DTSTAMP:20190624T000000Z
 DTSTART:20200519
 DTEND:20200519
@@ -137,7 +137,7 @@ SUMMARY:St. Francis Coll Guitart
 DESCRIPTION:St. Francis Coll Guitart, friar and priest (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:3695d457-af3d-402e-8198-bbe066e1da5d
+UID:8e91e673-1bb5-4c1e-8dad-cd12ef2ccc08
 DTSTAMP:20190624T000000Z
 DTSTART:20200524
 DTEND:20200524
@@ -146,7 +146,7 @@ SUMMARY:Translation of Our Holy Father Dominic
 DESCRIPTION:Translation of Our Holy Father Dominic (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:8d6c4c0c-4038-4fde-9b3c-c4aceeaba453
+UID:d6457383-596c-45b1-b074-1de5c3932e06
 DTSTAMP:20190624T000000Z
 DTSTART:20200604
 DTEND:20200604
@@ -155,7 +155,7 @@ SUMMARY:St. Peter of Verona
 DESCRIPTION:St. Peter of Verona, friar, priest and martyr (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:41a7c1af-6ab5-4f28-814b-3ab9e263936a
+UID:7a36ea6f-5f79-4440-9aa7-19a9ad9fa6ee
 DTSTAMP:20190624T000000Z
 DTSTART:20200608
 DTEND:20200608
@@ -164,7 +164,7 @@ SUMMARY:Bl. Diana Andalò and Bl. Cecilia
 DESCRIPTION:Bl. Diana Andalò and Bl. Cecilia, nuns and virgins (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:aaefade2-0a8a-4e7d-9a7f-1882d6023153
+UID:23d24fb9-a9b7-44ae-935e-27ac6f6aaf33
 DTSTAMP:20190624T000000Z
 DTSTART:20200704
 DTEND:20200704
@@ -173,7 +173,7 @@ SUMMARY:Bl. Pier Giorgio Frassati
 DESCRIPTION:Bl. Pier Giorgio Frassati, lay Dominican (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:9072440a-783b-431f-b5ea-b6ea8ec87516
+UID:230c8960-8cd9-40e6-b8b0-d73cb6eb157f
 DTSTAMP:20190624T000000Z
 DTSTART:20200709
 DTEND:20200709
@@ -182,7 +182,16 @@ SUMMARY:St. John of Cologne, and Companions
 DESCRIPTION:St. John of Cologne, friar and priest, and Companions, martyrs
 END:VEVENT
 BEGIN:VEVENT
-UID:c7332b0b-0493-47dc-804b-63cb88c6e72e
+UID:b7db3c28-4e70-4feb-bd92-45356f0c81e9
+DTSTAMP:20190624T000000Z
+DTSTART:20200709
+DTEND:20200709
+RRULE:FREQ=YEARLY
+SUMMARY:St. Francis Fernandez de Capillis, Peter Sans, Augustine Zhao Rong, and companions
+DESCRIPTION:St. Francis Fernandez de Capillis, priest, Peter Sans, bishop, and Augustine Zhao Rong, priest,martyrs in China (memorial)
+END:VEVENT
+BEGIN:VEVENT
+UID:765a2ef4-eafe-4059-992b-32ad2b695150
 DTSTAMP:20190624T000000Z
 DTSTART:20200802
 DTEND:20200802
@@ -191,7 +200,7 @@ SUMMARY:Bl. Jane of Aza
 DESCRIPTION:Bl. Jane of Aza, mother of St. Dominic and Bl. Mannes (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:160d2131-2dc2-4ca2-be99-28806634d35d
+UID:9abd8312-20fe-4cab-8557-c8fb2eb12919
 DTSTAMP:20190624T000000Z
 DTSTART:20200807
 DTEND:20200807
@@ -200,7 +209,7 @@ SUMMARY:Vigil of Our Holy Father, Dominic
 DESCRIPTION:Vigil of Our Holy Father, Dominic (fast and abstinence)
 END:VEVENT
 BEGIN:VEVENT
-UID:9550cdde-b23f-4c8f-af69-2d7d3073f192
+UID:6ce4da0e-82ae-4b3c-93b1-bd7fd395fd60
 DTSTAMP:20190624T000000Z
 DTSTART:20200808
 DTEND:20200808
@@ -209,7 +218,7 @@ SUMMARY:Our Holy Father, Dominic
 DESCRIPTION:Our Holy Father, Dominic, priest (solemnity)
 END:VEVENT
 BEGIN:VEVENT
-UID:bb0695de-e48c-4871-a0df-39c9d01a7aa4
+UID:be620e40-b0f6-4ca2-92d5-ba0853e8f474
 DTSTAMP:20190624T000000Z
 DTSTART:20200817
 DTEND:20200817
@@ -218,7 +227,7 @@ SUMMARY:St. Hyacinth of Poland
 DESCRIPTION:St. Hyacinth of Poland, friar and priest (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:2f35f38a-0cbd-4942-91bd-16f3633207ce
+UID:ec0ce4b4-adaf-4082-aed4-e047dc7ba3e6
 DTSTAMP:20190624T000000Z
 DTSTART:20200818
 DTEND:20200818
@@ -227,7 +236,7 @@ SUMMARY:Bl. Mannes (or Mames)
 DESCRIPTION:Bl. Mannes (or Mames), friar, priest and brother of St. Dominic (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:09b8b77b-fac2-4252-bddb-075ec66f90dc
+UID:04fed242-dfeb-4481-a915-c60519114fac
 DTSTAMP:20190624T000000Z
 DTSTART:20200823
 DTEND:20200823
@@ -236,7 +245,7 @@ SUMMARY:St. Rose of Lima
 DESCRIPTION:St. Rose of Lima, lay Dominican and virgin (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:c1a357fc-b66a-4f0e-899d-5d48f5d3954a
+UID:604243b0-c4fa-4c02-85bf-f8e05557ed25
 DTSTAMP:20190624T000000Z
 DTSTART:20200828
 DTEND:20200828
@@ -245,7 +254,7 @@ SUMMARY:St. Augustine
 DESCRIPTION:St. Augustine, bishop and Doctor of the Church (feast)
 END:VEVENT
 BEGIN:VEVENT
-UID:1da2d511-6cbc-430b-bddb-19612601075e
+UID:99c7fb36-78ea-4650-87a7-7027e7b7e1cd
 DTSTAMP:20190624T000000Z
 DTSTART:20200905
 DTEND:20200905
@@ -254,7 +263,7 @@ SUMMARY:Anniversary of Deceased Friends and Benefactors
 DESCRIPTION:Anniversary of Deceased Friends and Benefactors
 END:VEVENT
 BEGIN:VEVENT
-UID:c9ed9a73-542d-4ed4-9f3e-372627dc6b3c
+UID:aa5b633d-d915-466b-ae85-deee02a16592
 DTSTAMP:20190624T000000Z
 DTSTART:20200918
 DTEND:20200918
@@ -263,7 +272,7 @@ SUMMARY:St. Juan Macias
 DESCRIPTION:St. Juan Macias, friar and religious (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:a63e7282-42cd-4572-9bf1-417fae8f598a
+UID:c37d51fb-b047-4697-82fb-1e9505908bfc
 DTSTAMP:20190624T000000Z
 DTSTART:20200928
 DTEND:20200928
@@ -272,7 +281,7 @@ SUMMARY:St. Dominic Ibañez de Erquicia, St. Lawrence Ruiz of Manila, Bl. Alphon
 DESCRIPTION:St. Dominic Ibañez de Erquicia, friar and priest, St. Lawrence Ruiz of Manila, lay Dominican and husband, Bl. Alphonsus Navarrete, friar and priest, and Companions, martyrs (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:67d84dcf-fa6f-4829-865f-e3ba9ce6428c
+UID:bbded50b-f3d4-457a-b4fc-74c37abcf125
 DTSTAMP:20190624T000000Z
 DTSTART:20201004
 DTEND:20201004
@@ -281,7 +290,7 @@ SUMMARY:Our Holy Father Francis of Assisi
 DESCRIPTION:Our Holy Father Francis of Assisi, deacon (feast)
 END:VEVENT
 BEGIN:VEVENT
-UID:5321eecd-1de9-44c0-abfc-cc77d45c12b4
+UID:8f819e47-5f98-4ad6-886b-9d49afa12448
 DTSTAMP:20190624T000000Z
 DTSTART:20201005
 DTEND:20201005
@@ -290,7 +299,7 @@ SUMMARY:Bl. Raymond delle Vigne of Capua
 DESCRIPTION:Bl. Raymond delle Vigne of Capua, friar, priest and Master of the Order (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:9f1036fd-c0cf-46f2-8674-999bf77ae622
+UID:fc20bbe0-5f91-4c78-8d18-860f37423f45
 DTSTAMP:20190624T000000Z
 DTSTART:20201007
 DTEND:20201007
@@ -299,7 +308,7 @@ SUMMARY:Vigil of the Blessed Virgin Mary the Rosary
 DESCRIPTION:Vigil of the Blessed Virgin Mary the Rosary (fast and abstinence)
 END:VEVENT
 BEGIN:VEVENT
-UID:ff26ec43-b2ff-486a-9c1a-298655097cf1
+UID:34e0fc0a-759d-4927-b434-5d90f3a3bfc0
 DTSTAMP:20190624T000000Z
 DTSTART:20201008
 DTEND:20201008
@@ -308,7 +317,7 @@ SUMMARY:Blessed Virgin Mary of the Rosary
 DESCRIPTION:Blessed Virgin Mary of the Rosary (feast)
 END:VEVENT
 BEGIN:VEVENT
-UID:692f7500-08b1-414a-b994-992ac6fe9b4a
+UID:fd79018b-acf6-461f-baf2-f8fd62e0d0ab
 DTSTAMP:20190624T000000Z
 DTSTART:20201009
 DTEND:20201009
@@ -317,7 +326,7 @@ SUMMARY:St. Louis Bertrán
 DESCRIPTION:St. Louis Bertrán, friar and priest (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:cc2061d8-95ac-4f9d-8803-0b96294b305d
+UID:4ac6e4bb-a1ee-4ee1-a9a7-b5cebaa18943
 DTSTAMP:20190624T000000Z
 DTSTART:20201103
 DTEND:20201103
@@ -326,7 +335,7 @@ SUMMARY:St. Martin de Porres
 DESCRIPTION:St. Martin de Porres, friar and religious (feast)
 END:VEVENT
 BEGIN:VEVENT
-UID:4672c790-0ff5-45dc-8c9d-3065cf5b7b5a
+UID:3254211c-4396-4dab-b114-5eebe242baf0
 DTSTAMP:20190624T000000Z
 DTSTART:20201106
 DTEND:20201106
@@ -335,7 +344,7 @@ SUMMARY:Bl. Bonaventure García Paredes, Bl. Hyacinth Serrano Lopez, and Compani
 DESCRIPTION:Bl. Bonaventure García Paredes, friar, priest and Master of the Order, Bl. Hyacinth Serrano Lopez, friar and priest, and Companions, martyrs (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:e7253d0a-abb9-4c4b-8723-b10d61cd5640
+UID:1e87e7f2-e69f-41b2-ae72-d91aa1c74282
 DTSTAMP:20190624T000000Z
 DTSTART:20201107
 DTEND:20201107
@@ -344,7 +353,7 @@ SUMMARY:All Saints of the Order of Preachers
 DESCRIPTION:All Saints of the Order of Preachers (feast)
 END:VEVENT
 BEGIN:VEVENT
-UID:a46c2e26-254f-4d7b-a627-36cf84044b4c
+UID:de19d56d-8eb0-4404-88e2-8339408ee232
 DTSTAMP:20190624T000000Z
 DTSTART:20201108
 DTEND:20201108
@@ -353,7 +362,7 @@ SUMMARY:Anniversary of Deceased Brothers and Sisters
 DESCRIPTION:Anniversary of Deceased Brothers and Sisters
 END:VEVENT
 BEGIN:VEVENT
-UID:fe94fb54-3367-4711-a85b-999cfd60e3fd
+UID:c9386904-6c08-4f0f-ada9-7a71fa31d0fc
 DTSTAMP:20190624T000000Z
 DTSTART:20201114
 DTEND:20201114
@@ -362,7 +371,7 @@ SUMMARY:Vigil of St. Albert the Great
 DESCRIPTION:Vigil of St. Albert the Great (fast and abstinence)
 END:VEVENT
 BEGIN:VEVENT
-UID:2382f1a0-f1c4-4988-8714-2bec0d5d0d4c
+UID:ff4d29d0-6b23-4d7c-908d-a8f24ef9b912
 DTSTAMP:20190624T000000Z
 DTSTART:20201115
 DTEND:20201115
@@ -371,7 +380,7 @@ SUMMARY:St. Albert the Great
 DESCRIPTION:St. Albert the Great, friar, bishop and Doctor of the Church (feast)
 END:VEVENT
 BEGIN:VEVENT
-UID:09d16578-d0e4-4df5-9614-288b704fb313
+UID:b55cdf34-e7f4-400e-be8e-9ae3e60afda2
 DTSTAMP:20190624T000000Z
 DTSTART:20201124
 DTEND:20201124
@@ -380,7 +389,7 @@ SUMMARY:St. Ignatius Delgado, St. Vincent Liem, St. Dominic An-Kham, St. Andrew 
 DESCRIPTION:St. Ignatius Delgado, friar and bishop, St. Vincent Liem, friar and priest, St. Dominic An-Kham, lay Dominican and father, St. Andrew Dũng-Lạc, priest, and Companions, martyrs (memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:2344ace7-c031-4301-8cd7-6458bbd66be5
+UID:c1098927-c0e6-4c82-9db8-b49f7b5f70dd
 DTSTAMP:20190624T000000Z
 DTSTART:20191201
 DTEND:20191201
@@ -389,7 +398,7 @@ SUMMARY:Bl. John of Vercelli
 DESCRIPTION:Bl. John of Vercelli, friar, priest and Master of the Order (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:c5a008b7-d6e9-4bba-9fbf-2d6afb127d03
+UID:eb020656-989d-46bd-b358-1ca4d86426a8
 DTSTAMP:20190624T000000Z
 DTSTART:20191216
 DTEND:20191216
@@ -398,7 +407,7 @@ SUMMARY:Bl. Sebastian Maggi
 DESCRIPTION:Bl. Sebastian Maggi, friar and priest (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:658c0b56-07fa-468d-8bc5-4f0a64a959d0
+UID:866a2421-8cf5-4d81-a9f4-03520eb4f3d7
 DTSTAMP:20190624T000000Z
 DTSTART:20191220
 DTEND:20191220
@@ -407,7 +416,7 @@ SUMMARY:St. Dominic of Silos
 DESCRIPTION:St. Dominic of Silos, priest (optional memorial)
 END:VEVENT
 BEGIN:VEVENT
-UID:1abcd432-3bf1-4013-b90b-bfa7f7646c6d
+UID:7cb16db5-4719-4396-b5d8-d458db54d706
 DTSTAMP:20190624T000000Z
 DTSTART:20191222
 DTEND:20191222
