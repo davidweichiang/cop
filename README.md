@@ -1,3 +1,8 @@
+## Links
+
+- General Calendar: https://davidweichiang.github.io/cop/general.ics
+- Particular Calendar: https://davidweichiang.github.io/cop/particular.ics
+
 ## Sources
 
 - Official 2019 calendar (in Latin): https://www.op.org/wp-content/uploads/2019/07/Calendarium-Ordinis-2019-cum-decreto-et-indice.pdf
