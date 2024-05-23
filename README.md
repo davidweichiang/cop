@@ -1,7 +1,7 @@
 ## Links
 
-- General Calendar: https://davidweichiang.github.io/cop/general.ics
-- Particular Calendar: https://davidweichiang.github.io/cop/particular.ics
+- [General Calendar](https://davidweichiang.github.io/cop/general.ics)
+- [Particular Calendar](https://davidweichiang.github.io/cop/particular.ics)
 
 ## Sources
 
